@@ -684,10 +684,6 @@ Make sure NO ONE else is broadcasting on the same channel prior to Calibration!
 YOU are solely responsible for the operation of YOUR equipment!
 ******************************************************************************/
 
-// Maybe some button presses should be included to initiate the calibration routine rather than relying on time-outs and auto detection.
-// flash some leds to indicate cal mode, press mode to start low cal, illuminate red or green - depending on outcome... if its a fail, hold video to restart.
-// if  its green, press video to continue to high cal, if its a fail, hold video to restart else save figures and exit.
-
 void Calibrate(void)
 {
     while(MinRSSICalibrationFlag == false)   /* Jump to min calibration until flag changes, at this point we have temp figures to apply later. */
