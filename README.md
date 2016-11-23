@@ -55,5 +55,4 @@ The point of this project was to create a decent micro controlled diversity rece
       CHOICE OF VOLTAGE REFERENCE METHODS - CODE WILL WORK ON 3V3 AND 5V TARGETS.
       WELL COMMENTED CODE.
       
-
-      
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](mikdalton@googlemail.com)
