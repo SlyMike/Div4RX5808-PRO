@@ -8,7 +8,8 @@ The RX modules will need to be assembled and programmed with the RX5808_PRO soft
 The diversity code is available within this repository. After downloading, replace the .C file extendsion with .ino.
 
 The code has been tested to a degree, it seems to work for me but there is always room for improvement.
-I consider this project a work in progress, you may find bugs, spelling mistakes, missing component values. I may address this in future but for most folk it should not be hard to build.
+I consider this project a work in progress, you may find bugs, spelling mistakes, missing component values. 
+I may address this in future but for most folk it should not be hard to build.
 
 FEATURES:
 
