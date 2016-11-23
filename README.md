@@ -5,7 +5,7 @@ This project requires that you make 3 seperate PCB's. Two RX5808-PRO enabled vid
 Boards ans schematics are supplied for both the receivers and mainboard.
 
 The RX modules will need to be assembled and programmed with the RX5808_PRO software (available on Github).
-The diversity code is available within this repository. After downloading, replace the .C file extendsion with .ino.
+The diversity code is available within this repository. After downloading, replace the .C file extension with .ino.
 
 The code has been tested to a degree, it seems to work for me but there is always room for improvement.
 I consider this project a work in progress, you may find bugs, spelling mistakes, missing component values, most of the source files were made in a rush or as I was doing something else.
