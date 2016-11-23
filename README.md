@@ -21,7 +21,7 @@ The transmitter on the RC model should be set to the same channel as the receive
 (2) Turn on transmitter. Second amber led indicates HIGH RSSI calculation. Press and release "Mode" button.
 (3) Green LED indicates a good calibration, red a failure.
 
-Auto calibration may not be necessary and if it is not initiated on power up (or fails for some reason), recieved RSSI values will be direcly compared as if limits are equal between modules.
+Auto calibration may not be necessary and if it is not initiated on power up (or fails for some reason), received RSSI values will be directly compared as if limits are equal on both modules.
 
 Hold the "Mode" button during power up to enable serial debug output.
 
