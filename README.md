@@ -1,5 +1,5 @@
 # Div4RX5808-PRO
-Arduino based 5.8ghz  Diversity Video receiver using 2x RX5808-PRO RX modules.
+Arduino based 5.8GHz  Diversity Video receiver using 2x RX5808-PRO RX modules.
 
 This project requires that you make 3 seperate PCB's. Two RX5808-PRO enabled video RX modules and a Diversity main board.
 Boards and schematics are supplied for both the receivers and mainboard. 
