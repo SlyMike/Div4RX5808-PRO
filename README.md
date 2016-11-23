@@ -14,14 +14,14 @@ The software portion of this project is not an adaptation of RX5808-PRO, it's fu
 Video, audio and controls are switched simultaniously. LEDs indicate RSSI percentage (4 LEDs), active receiver (2 LEDs) and diversity mode (1 LED).
 
 Holding the "Video" button during boot will allow for RSSI calibration as many RX5808 modules will have slightly different lower and upper limits.
-The Div4RX5808-PRO diversity video receiver will assume that channel selection is correct and that nobody is using chosen channel.
+The Div4RX5808-PRO diversity video receiver will assume that channel selection is correct and that nobody else is using the chosen channel.
 The transmitter on the RC model should be set to the same channel as the receiver, the model should be powered down.
 
-(1) Turn on Div4RX5808-PRO diversity video receiver in RSSI calibration mode (TX OFF). Amber led indicates LOW RSSI calculation.
-(2) Turn on transmitter. Second amber led indicates HIGH RSSI calculation.
+(1) Turn on Div4RX5808-PRO diversity video receiver in RSSI calibration mode (TX OFF). Amber led indicates LOW RSSI calculation. Press and release "Mode" button.
+(2) Turn on transmitter. Second amber led indicates HIGH RSSI calculation. Press and release "Mode" button.
 (3) Green LED indicates a good calibration, red a failure.
 
-Auto calibration may not be necessary and if it is not initiated on power up, recieved RSSI values will be direcly compared as if limits are equal between modules.
+Auto calibration may not be necessary and if it is not initiated on power up (or fails for some reason), recieved RSSI values will be direcly compared as if limits are equal between modules.
 
 Hold the "Mode" button during power up to enable serial debug output.
 
