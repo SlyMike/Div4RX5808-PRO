@@ -268,8 +268,10 @@ void setup() {
         Serial.begin(19200);                    /* Start serial terminal if in debug mode. */
         Serial.println(" ");
         Serial.println(" ");
+        Serial.println("Div4RX5808-PRO");
+        Serial.println("Dual 5.8GHz Video Receiver Diversity Controller with RX5808-PRO functionality.");
+        Serial.println("SlyMike");
         Serial.println(" ");
-        Serial.println("Dual 5.8ghz Video Receiver Diversity Controller with RX5808-PRO functionality.");
         Serial.println(" ");
         Serial.print(AUTHOR);
         Serial.print(", V");
